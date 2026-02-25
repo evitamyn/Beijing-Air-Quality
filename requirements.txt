@@ -1,7 +1,6 @@
 streamlit
 babel
 pandas
-os
 matplotlib
 seaborn
 numpy
