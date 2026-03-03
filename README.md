@@ -35,7 +35,7 @@ Proyek ini berfokus pada analisis kualitas udara di Beijing untuk mengidentifika
 ---
 ## 🛠️ Library
 - **Programming** : Python
-- **Data Analysis** : Pandas, Numpy, Os
+- **Data Analysis** : Pandas, Numpy
 - **Visualization** : Matplotlib, Seaborn, Folium
 - **Dashboard** : Streamlit
 - **IDE** : Jupyter Notebook
